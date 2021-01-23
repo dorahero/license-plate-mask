@@ -1,4 +1,4 @@
-# license plate pmask
+# license plate mask
 - [x] Kotlin
 - [x] Java
 - [x] [CameraX](https://developer.android.com/training/camerax)
