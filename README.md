@@ -14,5 +14,5 @@
 
 # Step:
 - Take picture and wait a moment  
-- It will be pixelated on the lincense plate  
+- The number will be pixelated on the lincense plate  
 ![](./doc/demo.jpg )
